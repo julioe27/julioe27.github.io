@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: my portfolio
+title: Julio Escalera
 
 # Short description of your site
-description: a collection of data science projects
+description: My Portfolio
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
